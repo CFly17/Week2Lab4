@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\bin\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.exe
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\bin\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.deps.json
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\bin\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\bin\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\bin\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.dll
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\bin\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.pdb
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.dll
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.pdb
+C:\Users\CFlynn3\source\repos\Week2_Lab4_StudentDatabase\Week2_Lab4_StudentDatabase\obj\Debug\netcoreapp3.1\Week2_Lab4_StudentDatabase.genruntimeconfig.cache
